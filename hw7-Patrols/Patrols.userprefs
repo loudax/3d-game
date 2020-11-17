@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PropFactory.cs">
+    <Files>
+      <File FileName="Assets\AreaCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Action.cs" Line="1" Column="1" />
+      <File FileName="Assets\Interface.cs" Line="1" Column="1" />
+      <File FileName="Assets\FirstSceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\PropFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets\GameEventManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\ScoreRecorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\UserGUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets\PatrolData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
