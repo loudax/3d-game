@@ -27,7 +27,7 @@ public class Controller : MonoBehaviour, IUserAction, ISceneController
 
     public bool GetWin()
     {
-        return recorder.score == 9;
+        return recorder.score == 8;
     }
 
 	public void Restart()
